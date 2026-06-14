@@ -411,11 +411,6 @@ Java Full Stack Developer
 
 ---
 
-## 👩‍💻 Author
-
-Anjali Khilari
-
-Java Full Stack Developer
 
 
 
